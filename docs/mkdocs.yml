@@ -23,8 +23,8 @@ theme:
     - content.code.copy
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: burgundy
+      accent: gold
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
