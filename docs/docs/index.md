@@ -28,4 +28,4 @@ Simple mechanics, escalating challenges, and a focus on fun, cooperative gamepla
 
 ## ✨️ Contributing
 
-To contribute and become a part of the 'Cooked!' project, please join the [Bedrock Commands Community Discord]().
+To contribute and become a part of the 'Cooked!' project, please join the [Bedrock Commands Community Discord](https://discord.gg/SYstTYx5G5).
