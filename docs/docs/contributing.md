@@ -58,7 +58,7 @@ If you get stuck, reach out on our [Discord server](https://discord.gg/SYstTYx5G
 
 ## Writing Tips
 
-Documents use Markdown formatting:
+### Documents use Markdown formatting:
 - `# Heading`
 - `## Subheading`
 - `- Bullet point`
