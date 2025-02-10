@@ -1,7 +1,7 @@
-site_name: BCC Cook-Off
-site_url: https://bedrockcommands.github.io/Cook-Off/
-repo_url: "https://github.com/BedrockCommands/Cook-Off"
-repo_name: "Cook-Off"
+site_name: Cooked! - Powered by BCC
+site_url: https://bedrockcommands.github.io/Cooked/
+repo_url: "https://github.com/BedrockCommands/Cooked"
+repo_name: "Cooked!"
 
 copyright: Copyright &copy; 2024 BCC
 extra:
