@@ -16,7 +16,8 @@ Dive in and experience a fun and unique culinary adventure within Minecraft!
 **Synopsis**:<br>
 Players race against the clock to prepare and serve dishes in increasingly hectic kitchens. From chopping ingredients to managing stoves, teamwork and coordination are key to success.  
 
-**Gameplay**:<br>
+**Gameplay**:
+
 - Complete orders by gathering, preparing, and cooking ingredients.  
 - Navigate dynamic kitchen layouts with obstacles like conveyor belts, moving platforms, or environmental hazards.  
 - Work together to keep up with the growing pressure of complex recipes and time constraints.  
