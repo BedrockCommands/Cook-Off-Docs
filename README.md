@@ -4,7 +4,7 @@ This project is powered by the [Bedrock Commands Community](https://discord.com/
 
 The **2025 winning map concept, ["Cooked!"](https://bedrockcommands.github.io/Cooked/)**, was selected through a community vote from three finalist concepts. These finalists were carefully chosen by the staff team from six original submissions by some of the community's top creators.  
 
-This year's **Project Director** is **@CaliFerr**, the author of the **Cooked!** concept.
+This year's **Project Director** is **[@CaliFerr](https://github.com/CaliFerr)**, the author of the **Cooked!** concept.
 
 ## 🍳 Cooked! Overview
 
