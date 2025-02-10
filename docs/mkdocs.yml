@@ -16,6 +16,7 @@ extra:
 
 theme:
   name: material
+  favicon: "assets/logo.png"
   features:
     - navigation.tabs
     - navigation.sections
@@ -36,7 +37,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: "https://media.discordapp.net/attachments/1132519999429419078/1132520602385797170/20230210_071855.png?ex=67ab7240&is=67aa20c0&hm=76d7cecdd1d8fffd3fe00136cc04507f6721db36339678121867f5bf109dbeff&"
+  logo: "assets/logo.png"
   icon:
     repo: fontawesome/brands/github
 
