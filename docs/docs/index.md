@@ -10,16 +10,16 @@ This year's **Project Director** is **[@CaliFerr](https://github.com/CaliFerr)**
 
 ## 🍳 Cooked! Overview
 
-A fast-paced, multiplayer cooking minigame focused on teamwork and chaos.
+> A fast-paced, multiplayer cooking minigame focused on teamwork and chaos.
 Dive in and experience a fun and unique culinary adventure within Minecraft!
 
-### Synopsis  
+**Synopsis**:<br>
 Players race against the clock to prepare and serve dishes in increasingly hectic kitchens. From chopping ingredients to managing stoves, teamwork and coordination are key to success.  
 
-### Gameplay  
+**Gameplay**:<br>
 - Complete orders by gathering, preparing, and cooking ingredients.  
 - Navigate dynamic kitchen layouts with obstacles like conveyor belts, moving platforms, or environmental hazards.  
 - Work together to keep up with the growing pressure of complex recipes and time constraints.  
 
-### Features  
+**Features**:<br>
 Simple mechanics, escalating challenges, and a focus on fun, cooperative gameplay.
