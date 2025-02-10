@@ -1,0 +1,33 @@
+site_name: BCC Cook-Off
+site_url: https://bedrockcommands.github.io/Cook-Off/
+repo_url: "https://github.com/BedrockCommands/Cook-Off"
+repo_name: "Cook-Off"
+
+copyright: Copyright &copy; 2024 BCC
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/SYstTYx5G5
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
