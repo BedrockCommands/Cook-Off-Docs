@@ -10,7 +10,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.com/servers/bedrock-commands-community-924894457894174740
     - icon: fontawesome/brands/youtube
-    - link: https://youtube.com/@bccommunuty
+      link: https://youtube.com/@bccommunuty
 
 theme:
   name: material
