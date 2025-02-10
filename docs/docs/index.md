@@ -6,6 +6,8 @@ The **2025 winning map concept, ["Cooked!"](https://bedrockcommands.github.io/Co
 
 This year's **Project Director** is **[@CaliFerr](https://github.com/CaliFerr)**, the author of the **Cooked!** concept.
 
+--- 
+
 ## 🍳 Cooked! Overview
 
 A fast-paced, multiplayer cooking minigame focused on teamwork and chaos.
