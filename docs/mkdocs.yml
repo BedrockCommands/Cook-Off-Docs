@@ -1,14 +1,14 @@
 site_name: Cooked! - Powered by BCC
 site_url: https://bedrockcommands.github.io/Cooked/
 repo_url: "https://github.com/BedrockCommands/Cooked"
-repo_name: "Cooked!"
+repo_name: "Cooked"
 
 copyright: Copyright &copy; 2024 BCC
 extra:
   generator: false
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/SYstTYx5G5
+      link: https://discord.com/servers/bedrock-commands-community-924894457894174740
 
 theme:
   name: material
