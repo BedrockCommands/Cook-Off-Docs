@@ -19,7 +19,7 @@ pip install mkdocs-material
 ## Editing the Documentation
 
 ### Download the project
-   1. Go to our [GitHub page](https://github.com/BedrockCommands/Cooked)
+   1. Go to our [GitHub page](https://github.com/BedrockCommands/Cook-Off)
    2. Click the green "Code" button
    3. Click "Download ZIP"
    4. Extract the ZIP file somewhere on your computer
