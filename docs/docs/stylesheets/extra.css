@@ -1,0 +1,7 @@
+/* desktop */
+@media screen and (min-width: 1220px) {
+    .md-header__button.md-logo img {
+        width: 36px;
+        height: auto;
+    }
+}

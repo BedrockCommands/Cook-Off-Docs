@@ -3,7 +3,9 @@ site_url: https://bedrockcommands.github.io/Cooked/
 repo_url: "https://github.com/BedrockCommands/Cooked"
 repo_name: "Cooked"
 
-copyright: Copyright &copy; 2025 Bedrock Commands Community (BCC)
+copyright: |
+  Copyright &copy; 2025 Bedrock Commands Community (BCC) <br>
+  Website Template by <a href="https://squidfunk.github.io/mkdocs-material/">MkDocs</a> – Licensed under the <a href="https://opensource.org/licenses/BSD-2-Clause">BSD-2-Clause License</a>
 extra:
   generator: false
   social:
@@ -34,5 +36,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  logo: "https://media.discordapp.net/attachments/1132519999429419078/1132520602385797170/20230210_071855.png?ex=67ab7240&is=67aa20c0&hm=76d7cecdd1d8fffd3fe00136cc04507f6721db36339678121867f5bf109dbeff&"
   icon:
     repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
