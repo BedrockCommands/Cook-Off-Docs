@@ -27,7 +27,7 @@ theme:
   palette:
     - scheme: default
       primary: brown
-      accent: yellow
+      accent: brown
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
