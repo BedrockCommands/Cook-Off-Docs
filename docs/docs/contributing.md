@@ -25,7 +25,7 @@ pip install mkdocs-material
    4. Extract the ZIP file somewhere on your computer
    5. **Advanced**: If you actually want to make a pull request you will have to fork the repository and do these changes in your [fork](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository)
 
-<!-- Please Ignore the mess below it didn't want to order the number correctly -->
+<!-- Please Ignore the mess below it didn't want to order the numbers correctly -->
 ### Preview the project
    1. Open Command Prompt
    2. Navigate to where you extracted the files:

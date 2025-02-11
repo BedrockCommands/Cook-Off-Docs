@@ -5,3 +5,18 @@
         height: auto;
     }
 }
+
+/* Custom link colors */
+.md-content a {
+    color: #526cfe;
+    transition: 0.15s;
+}
+
+.md-content a:hover {
+    color: #334ddd;
+}
+
+/* Active navigation item color */
+.md-nav__item .md-nav__link--active {
+    color: #526cfe;
+}

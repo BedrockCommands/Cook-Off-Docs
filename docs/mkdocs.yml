@@ -27,13 +27,13 @@ theme:
   palette:
     - scheme: default
       primary: brown
-      accent: brown
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
       primary: brown
-      accent: brown
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
