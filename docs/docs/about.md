@@ -1,4 +1,4 @@
-# About
+# Program Info
 
 ## Welcome to the Annual Map Making Program!! 💫
 
