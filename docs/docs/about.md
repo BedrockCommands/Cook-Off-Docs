@@ -14,7 +14,7 @@ This is a year-round event where community members collaborate on an exciting ma
 The event will kick off before February and conclude in or before November, allowing approximately 10 months for development.
 
 ### 🎉 Initiation
-In January, top 5 community participants from 2024 will be selected to submit their best map concepts forward. The community will vote on their favorite map concept. The winning concept will become the year’s project, with its author designated as the Project Director. *Note: To ensure manageability, only small to medium-scale concepts will be eligible for the poll.*
+In January, top 5 community participants from the previous year will be selected to submit their best map concepts forward. The community will vote on their favorite map concept. The winning concept will become the year’s project, with its author designated as the Project Director. *Note: To ensure manageability, only small to medium-scale concepts will be eligible for the poll.*
 
 ### 🤝 Development Process
 - Project details and task lists will be shared after the voting phase. Participants can collaborate with the Project Director to complete tasks they choose to contribute to.
