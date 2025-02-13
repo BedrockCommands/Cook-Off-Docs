@@ -1,6 +1,6 @@
 ## 📌 Project Info  
 
-This project is powered by the [Bedrock Commands Community](https://discord.com/servers/bedrock-commands-community-924894457894174740) as part of its annual **[Map Making Program](/Cooked/about/)**, running from **February to November**.
+This project is powered by the **[Bedrock Commands Community](https://discord.com/servers/bedrock-commands-community-924894457894174740)** as part of its annual **[Map Making Program](/Cooked/about/)**, running from **February to November**.
 
 The **2025 winning map concept**, "**Cooked!**", was selected through a community vote from three finalist concepts. These finalists were carefully chosen by the staff team from six original submissions by some of the community's top creators.  
 
