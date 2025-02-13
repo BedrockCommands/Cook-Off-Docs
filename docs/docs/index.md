@@ -1,14 +1,14 @@
 ## 📌 Project Info  
 
-This project is powered by the [Bedrock Commands Community](https://discord.com/servers/bedrock-commands-community-924894457894174740) as part of its annual **[Map Making Program](/Cook-Off/about/)**, running from **February to November**.
+This project is powered by the [Bedrock Commands Community](https://discord.com/servers/bedrock-commands-community-924894457894174740) as part of its annual **[Map Making Program](/Cooked/about/)**, running from **February to November**.
 
-The **2025 winning map concept**, "**Cook-Off!**", was selected through a community vote from three finalist concepts. These finalists were carefully chosen by the staff team from six original submissions by some of the community's top creators.  
+The **2025 winning map concept**, "**Cooked!**", was selected through a community vote from three finalist concepts. These finalists were carefully chosen by the staff team from six original submissions by some of the community's top creators.  
 
-This year's **Project Director** is **[@CaliFerr](https://github.com/CaliFerr)**, the author of the **Cook-Off!** concept.
+This year's **Project Director** is **[@CaliFerr](https://github.com/CaliFerr)**, the author of the **Cooked!** concept.
 
 --- 
 
-## 🍳 Cook-Off! Overview
+## 🍳 Cooked! Overview
 
 > A fast-paced, multiplayer cooking minigame focused on teamwork and chaos.
 Dive in and experience a fun and unique culinary adventure within Minecraft!
@@ -28,4 +28,4 @@ Simple mechanics, escalating challenges, and a focus on fun, cooperative gamepla
 
 ## ✨️ Contributing
 
-To contribute and become a part of the 'Cook-Off!' project, please join the [Bedrock Commands Community Discord](https://discord.gg/SYstTYx5G5).
+To contribute and become a part of the 'Cooked!' project, please join the [Bedrock Commands Community Discord](https://discord.gg/SYstTYx5G5).
