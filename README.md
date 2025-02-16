@@ -2,11 +2,11 @@
 
 This project is powered by the [Bedrock Commands Community](https://discord.com/servers/bedrock-commands-community-924894457894174740) as part of its annual **Map Making Program**.  
 
-The **2025 winning map concept, ["Cooked!"](https://bedrockcommands.github.io/Cooked/)**, was selected through a community vote from three finalist concepts. These finalists were carefully chosen by the staff team from six original submissions by some of the community's top creators.  
+The **2025 winning map concept, ["Cook-Off"](https://bedrockcommands.github.io/Cook-Off/)**, was selected through a community vote from three finalist concepts. These finalists were carefully chosen by the staff team from six original submissions by some of the community's top creators.  
 
-This year's **Project Director** is **[@CaliFerr](https://github.com/CaliFerr)**, the author of the **Cooked!** concept.
+This year's **Project Director** is **[@CaliFerr](https://github.com/CaliFerr)**, the author of the **Cook-Off!** concept.
 
-## 🍳 Cooked! Overview
+## 🍳 Cook-Off Overview
 
 A fast-paced, multiplayer cooking minigame focused on teamwork and chaos.
 Dive in and experience a fun and unique culinary adventure within Minecraft!
